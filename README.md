@@ -77,13 +77,19 @@ If you have **VS Code Live Server extension**, right-click `index.html` → **Op
 ## 📸 Screenshots
 
 ### Hero Section
-![Hero Section](https://placehold.co/800x400/021F59/FFFFFF?text=Hero+Section)
+![Hero Section](heroSection.png)
+
+### About Section
+![About Section](aboutSection.png)
+
+### Service Section
+![Service Section](servicesSection.png)
 
 ### Projects
-![Projects](https://placehold.co/800x400/0460D9/FFFFFF?text=Projects)
+![Projects](projectsSection.png)
 
 ### Contact
-![Contact](https://placehold.co/800x400/010D26/FFFFFF?text=Contact+Form)
+![Contact](contactSection.png)
 
 ---
 
